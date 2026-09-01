@@ -1,0 +1,5 @@
+
+checkerboard_args:
+  XX : 7
+  YY : 5
+  L : 0.03
