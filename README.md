@@ -1,5 +1,15 @@
 ## 출처: https://github.com/RealManRobot/hand_eye_calibration
 
+## 결과
+
+![image](picture/cad_result1.png)
+
+![image](picture/cad_result2.png)
+
+![image](picture/real_result1.jpg)
+
+
+
 ## 개요
 
 핸드-아이 캘리브레이션은 일반적으로 로봇 및 컴퓨터 비전 분야에서 사용되며, 특히 로봇팔과 환경의 상호작용을 정밀하게 제어해야 하는 상황에서 활용됩니다. 핸드-아이 캘리브레이션은 로봇팔과 카메라의 좌표계를 통일하고 카메라와 로봇팔 사이의 좌표 변환 관계를 구함으로써, 로봇팔이 카메라로 위치를 찾은 대상을 정확하게 파지할 수 있게 합니다.
